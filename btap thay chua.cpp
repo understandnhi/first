@@ -2,7 +2,7 @@
 #include <string>
 #include <iomanip>
 using namespace std;
-
+/*hello*/
 class NGUOI{
 	private:
 		string hoten;
